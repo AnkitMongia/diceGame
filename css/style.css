@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: #393E46;
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3;
+    text-shadow: 5px 0 #232931;
+}
+
+h1{
+    font-size: 6rem;
+    margin: 50px 0 100px 0;
+}
+
+p{
+    font-size: 2rem;
+}
+
+.row{
+    margin: 0 auto;
+    width: 50%;
+}
